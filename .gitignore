@@ -1,1 +1,3 @@
 localstack
+/app/watch_upload.log
+/app/imagens/*
